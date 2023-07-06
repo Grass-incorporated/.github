@@ -1,4 +1,5 @@
-# Grass
+# do you touch the grass? 
+### a short story by chatgpt
 Welcome to the captivating tale of four students: Wonho, James, Hao Yuan, and Saumil. These ambitious individuals found themselves united at the esteemed Swift Accelerator Programme, each with their unique backgrounds and talents. Little did they know that their shared passion for technology and environmental sustainability would lead them on a remarkable journey to create an innovative plant-tracker app known as Grass.
 
 Let's delve into their story, shall we?
